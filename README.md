@@ -6,8 +6,8 @@ VueJS - Very simple calculator for the Splotter board game Greed Incorporated
 + Get 20%
 + Limited CSS
 
-Javascript, VueJS
-Requires Internet connection for VueJS
+* Javascript, VueJS
+* Requires Internet connection for VueJS
 
 Can see at:
 
