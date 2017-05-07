@@ -12,3 +12,7 @@ Requires Internet connection for VueJS
 Can see at:
 
 https://jsfiddle.net/worchyld/bsabaep2/
+
+*Screenshot*
+
+![screenshot](https://raw.githubusercontent.com/worchyld/greedinc/masterscreenshot.png)
