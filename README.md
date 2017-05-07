@@ -15,4 +15,4 @@ https://jsfiddle.net/worchyld/bsabaep2/
 
 *Screenshot*
 
-![screenshot](https://raw.githubusercontent.com/worchyld/greedinc/masterscreenshot.png)
+![screenshot](https://raw.githubusercontent.com/worchyld/greedinc/master/screenshot.png)
