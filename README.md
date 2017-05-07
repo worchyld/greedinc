@@ -1,5 +1,6 @@
 # GreedInc Calculator
 VueJS - Very simple calculator for the Splotter board game Greed Incorporated
+[a link](https://boardgamegeek.com/boardgame/55952/greed-incorporated)
 
 + Type in an Integer
 + Get 40%
